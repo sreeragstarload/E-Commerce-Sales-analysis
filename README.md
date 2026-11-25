@@ -256,7 +256,11 @@ Data visualization helps present analytical results through charts and graphs.
 
 ![Sales Distribution](images/01_sales_distribution%20-%20Copy.png)
 
-**Observation:** [Add the actual observation from this chart.]
+**Observation:** March 2026 has the highest monthly sales at 352.50.
+February 2026 has sales of 303.00 and recorded profit of 324.00.
+June 2026 has lower sales of 201.00.
+August 2026 has the lowest monthly sales at 151.50.
+Monthly recorded profit is higher than sales in several months, so the underlying metric definitions should be checked
 
 ### 📊 Visualization 2 –
 
@@ -280,14 +284,39 @@ Data visualization helps present analytical results through charts and graphs.
 
 The key findings will be documented based on the actual analysis and visualizations.
 
-- [Add actual finding 1]
-- [Add actual finding 2]
-- [Add actual finding 3]
+- Based on the saved notebook outputs:
+1. The analysis covers 25 records and 12 original dataset columns.
+2. No missing values or duplicate records remain after cleaning.
+3. Total recorded sales are 2,250.00.
+4. Total recorded profit is 2,325.00.
+5. Total recorded quantity is 41,100.
+6. PRO-1020 has the highest recorded sales.
+7. PRO-1019 has the highest recorded profit.
+8. PRO-1005 has the lowest recorded profit.
+9. March 2026 has the highest monthly sales in the displayed period.
+10. August 2026 has the lowest monthly sales in the displayed period.
+11. The payment-method category with the highest sales is payment_method_58.
+12. The shipping-mode category with the highest sales is ship_mode_23.
+    
+##  🚀 14. Business Recommendations
+1. Product performance: Investigate products with high sales and high profit to understand what drives their performance.
+2. Low-profit products: Review pricing, purchase cost, discounts, and other expenses for products with low recorded profit.
+3. Discount strategy: Analyze how discounts relate to sales and profit before changing discount policies.
+4. Monthly performance: Investigate the sales decline visible after March and again in August.
+5. Payment methods: Use descriptive payment-method names and a larger dataset before making payment-channel decisions.
+6. Shipping operations: Review delivery cost, speed, and customer satisfaction alongside shipping-mode sales.
+7. Order management: Collect meaningful order-status labels and monitor cancellations, returns, and completed orders.
+8. Data quality: Validate the sales and profit definitions, units, and calculations.
+9. Larger dataset: Use more records and a longer time period to improve the reliability of trends and comparisons.
 
-## 📝 12. Conclusion
+## 📝 13. Conclusion
 
-This project demonstrates the use of Python for E-Commerce sales data analysis. Through data cleaning, exploratory data analysis, and visualization, the project aims to identify useful patterns and generate meaningful business insights.
+This project demonstrates a practical workflow for e-commerce sales analysis using Python. Pandas and NumPy are used for data preparation and analysis, Matplotlib and Seaborn are used for visualization, and SQLite is used to create and validate related database tables.
+
+The analysis identifies product-level performance, monthly sales patterns, payment and shipping category comparisons, and overall KPI values. It also highlights the importance of validating metric definitions and using sufficiently detailed data before making business decisions.
 
 ## 👨‍💻 13. Author
 
 **Sreerag PS**
+
+**Entry-Level Data Analyst**
