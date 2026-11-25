@@ -252,13 +252,14 @@ Data visualization helps present analytical results through charts and graphs.
 
 ### 📈 1 – [sales distributon]
 
-![Visualization 1]
+## Data Visualizations
+
+![Sales Distribution](images/01_sales_distribution%20-%20Copy.png)
 
 **Observation:** [Add the actual observation from this chart.]
 
 ### 📊 Visualization 2 – [Actual Chart Title]
 
-![Visualization 2](Visualizations/actual_chart_2.png)
 
 **Observation:** [Add the actual observation from this chart.]
 
