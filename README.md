@@ -250,15 +250,15 @@ Data visualization helps present analytical results through charts and graphs.
 | Monthly sales and profit line chart | Understand changes over time |
 | Correlation heatmap | Examine relationships between numerical variables |
 
-### 📈 1 – [sales distributon]
+### 📈Visualization 1 
 
-## Data Visualizations
+## sales Distribuation
 
 ![Sales Distribution](images/01_sales_distribution%20-%20Copy.png)
 
 **Observation:** [Add the actual observation from this chart.]
 
-### 📊 Visualization 2 – [Actual Chart Title]
+### 📊 Visualization 2 –
 
 
 **Observation:** [Add the actual observation from this chart.]
