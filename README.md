@@ -260,6 +260,9 @@ Data visualization helps present analytical results through charts and graphs.
 
 ### 📊 Visualization 2 –
 
+## profit distribution
+
+![Profit Distribution](images/02_profit_distribution.png)
 
 **Observation:** [Add the actual observation from this chart.]
 
