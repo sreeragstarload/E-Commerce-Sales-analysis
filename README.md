@@ -252,23 +252,17 @@ Data visualization helps present analytical results through charts and graphs.
 
 ### 📈Visualization 1 
 
-## sales Distribuation
+## Sales Distribution
 
 ![Sales Distribution](images/01_sales_distribution%20-%20Copy.png)
 
-**Observation:** March 2026 has the highest monthly sales at 352.50.
-February 2026 has sales of 303.00 and recorded profit of 324.00.
-June 2026 has lower sales of 201.00.
-August 2026 has the lowest monthly sales at 151.50.
-Monthly recorded profit is higher than sales in several months, so the underlying metric definitions should be checked
-
-### 📊 Visualization 2 –
+### 📊 Visualization 2 
 
 ## profit distribution
 
 ![Profit Distribution](images/02_profit_distribution.png)
 
-**Observation:** [Add the actual observation from this chart.]
+
 
 ### 📉 Visualization 3 
 
@@ -276,7 +270,18 @@ Monthly recorded profit is higher than sales in several months, so the underlyin
 
 ![Top 10 Products by Profit](images/04_top_10_products_by_profit.png)
 
-**Observation:** [Add the actual observation from this chart.]
+
+### 📊 Visualization 4 
+
+##  Monthly Sales and Profit Trend
+
+![Monthly Sales Profit Trend](images/monthly_sales_profit_trend.png)
+
+**Observation:** March 2026 has the highest monthly sales at 352.50.
+February 2026 has sales of 303.00 and recorded profit of 324.00.
+June 2026 has lower sales of 201.00.
+August 2026 has the lowest monthly sales at 151.50.
+Monthly recorded profit is higher than sales in several months, so the underlying metric definitions should be checked
 
 *Replace the sample image paths and titles with the actual chart files generated in the project.*
 
