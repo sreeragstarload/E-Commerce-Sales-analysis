@@ -266,9 +266,11 @@ Data visualization helps present analytical results through charts and graphs.
 
 **Observation:** [Add the actual observation from this chart.]
 
-### 📉 Visualization 3 – [Actual Chart Title]
+### 📉 Visualization 3 
 
-![Visualization 3](Visualizations/actual_chart_3.png)
+## Top 10 product by sales
+
+![Top 10 Products by Profit](images/04_top_10_products_by_profit.png)
 
 **Observation:** [Add the actual observation from this chart.]
 
